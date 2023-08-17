@@ -10,3 +10,6 @@ Belajar Dasar Git dengan Github (Progress 38%)
 Belajar Dasar Git dengan Github (Progress 100%)
  * Belajar mengenai branch
  * Belajar mengenai Collab
+
+   
++ Note
